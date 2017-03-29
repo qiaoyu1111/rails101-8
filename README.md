@@ -10,7 +10,7 @@
     hello! I'm <strong> qiaoyu </strong> . And this is a blog about <em> Ruby on Rails </em>
     </p>
     <!-- 《演员》田馥甄 YouTube视频 -->
-    <iframe width="420" herght="315" src="https://youtu.be/jQu4cJ00UEo">
+    <iframe width="420" height="315" src="https://youtu.be/jQu4cJ00UEo">
     </iframe>
     <hr>
     <a href="https://fullstack.xinshengdaxue.com/dashboard" target="_blank"> Add me </a>
