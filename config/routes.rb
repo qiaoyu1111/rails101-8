@@ -5,7 +5,7 @@ Rails.application.routes.draw do
   end
 
   devise_for :users
-  
+
   resources :groups do
     member do
       post :join
